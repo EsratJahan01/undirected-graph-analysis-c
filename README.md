@@ -1,6 +1,5 @@
 # undirected-graph-analysis-c
 Random undirected graph generation using C with adjacency matrix and time complexity analysis (O(n²)).
-# Random Undirected Graph Generation & Analysis (C)
 
 ## Project Overview
 This mini project was developed for the **Discrete Mathematics (CSE106)** course.  
